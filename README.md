@@ -1,10 +1,15 @@
 # Vr Kovaak's Playlists
 
 vr hard - KovaaKsSnipingScaredRhombus
+
 vr prediction correction - KovaaKsAcingSmoothStatus
+
 vr 30m warmup - KovaaKsZoningSmoothBuildbattle
+
 vr tracking - KovaaKsAdventuringSpringgreenDoublexp
+
 vrTS - KovaaKsAfkingStaticBlueberry
+
 vr static - KovaaKsKillstreakingPickedHighground
 
 # Good Playlists By Other's
