@@ -2,6 +2,8 @@
 
 new player basics - KovaaKsQuestingEntryCapture
 
+vr aimbot routine (full aiming routine,ts,tracking,static) - KovaaKsFlickingPeriwinklePot  
+
 vr hard - KovaaKsSnipingScaredRhombus
 
 vr prediction correction - KovaaKsAcingSmoothStatus
