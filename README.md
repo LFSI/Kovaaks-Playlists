@@ -1,5 +1,7 @@
 # Vr Kovaak's Playlists
 
+new player basics - KovaaKsQuestingEntryCapture
+
 vr hard - KovaaKsSnipingScaredRhombus
 
 vr prediction correction - KovaaKsAcingSmoothStatus
